@@ -3,7 +3,7 @@
 ;;; File:
 ;;;   utils.rkt
 ;;; Author:
-;;;   Your Name Here
+;;;   Kasey Fralick
 ;;; Summary:
 ;;;   A few sample utilities, created as part of a lab on GitHub.
 ;;; Procedure:
