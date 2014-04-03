@@ -1,7 +1,8 @@
 #lang racket
 (require gigls/unsafe)
 ;;; File:
-;;;   utils.rkt
+;;;   CSC-151-git-example/utils.rkt
+utils.rkt
 ;;; Author:
 ;;;   Kasey Fralick
 ;;; Summary:
